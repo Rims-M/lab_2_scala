@@ -1,0 +1,9 @@
+﻿.bsp/
+.metals/
+.scala-build/
+.vscode/
+.bloop/
+target/
+*.class
+*.msi
+~$*.docx
